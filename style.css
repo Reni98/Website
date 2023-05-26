@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color: #bcd9db;
+}
+.navbar {
+  background-color: #6faeb2;
+}
+
+p {
+  text-align: center;
+  margin: 50px;
+}
+
+.container {
+  text-align: center;
+}
+
+img:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+
